@@ -1,6 +1,6 @@
 # 🛍️ CRUD-Products (Laravel + Blade)
 
-[![Laravel](https://img.shields.io/badge/Laravel-10.x-red?style=for-the-badge&logo=laravel)](https://laravel.com/)
+[![Laravel](https://img.shields.io/badge/Laravel-9.x-red?style=for-the-badge&logo=laravel)](https://laravel.com/)
 [![PHP](https://img.shields.io/badge/PHP-8.x-blue?style=for-the-badge&logo=php)](https://www.php.net/)
 [![License: MIT](https://img.shields.io/badge/License-MIT-green?style=for-the-badge)](LICENSE)
 [![Bootstrap](https://img.shields.io/badge/Bootstrap-5.x-purple?style=for-the-badge&logo=bootstrap)](https://getbootstrap.com/)
