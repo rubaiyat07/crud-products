@@ -101,11 +101,6 @@ resources/views/products
 └── show.blade.php        # Product detail view
 ```
 
----
-
-## 📸 Example Screenshot
-
-*(Add a screenshot here to quickly showcase the app in action.)*
 
 ---
 
